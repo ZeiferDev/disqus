@@ -1,5 +1,5 @@
 {
-    "name": "zeiferdev/drupal-disqus",
+    "name": "zeiferdev/disqus",
     "type": "drupal-module",
     "description": "Disqus module for Drupal.",
     "homepage": "http://drupal.org/project/disqus",
